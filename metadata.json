@@ -1,0 +1,6 @@
+{
+  "name": "Optimus | Digital Solutions & Technology",
+  "description": "Simple, classic, and elegant website for Optimus showcasing company services, updates, and direct contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
